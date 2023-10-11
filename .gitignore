@@ -1,0 +1,60 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+.venv/
+venv/
+env/
+*.pyc
+__pycache__/
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Backup files
+*~
+*.bak
+
+# Environment-specific files
+.env
+
+# Ignore any local development settings
+local_settings.py
+
+# IDE or Editor folders
+.vscode/
+.idea/
+*.swp
+
+# Compiled Python files
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Distribution folders
+dist/
+build/
+
+# Compiled Python modules
+__pycache__/
+
+
+# Ignore the Pipenv virtual environment
+Pipfile.lock
+
+# If you're using Poetry for dependency management, you can also add the following:
+# poetry.lock
+# pyproject.toml
+
+# Ignore compiled Python extensions
+*.so
+
+# Ignore system-specific files
+*.DS_Store
+Thumbs.db
